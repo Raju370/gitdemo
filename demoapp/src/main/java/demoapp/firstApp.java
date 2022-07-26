@@ -6,6 +6,7 @@ public class firstApp {
 		
 System.out.println("welcome");
 
+
 	}
 
 }
