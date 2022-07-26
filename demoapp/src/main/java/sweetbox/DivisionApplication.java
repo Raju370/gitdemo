@@ -19,7 +19,7 @@ public class DivisionApplication {
 		
 		System.out.println(div.Division(4, 2));
 		
-				
+			
 	}
 
 }
