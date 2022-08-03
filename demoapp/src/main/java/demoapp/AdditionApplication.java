@@ -5,9 +5,9 @@ class Addition{
 	int a;
 	int b;
 		
-	public int Addition(int a, int b){
+	public int Addition(int a, int b, int c){
 		
-		return a+b;
+		return a+b+c;
 		
 	}
 	
@@ -20,7 +20,7 @@ public class AdditionApplication {
 		
 		Addition ad = new Addition();
 		
-		System.out.println(ad.Addition(2, 4));
+		System.out.println(ad.Addition(2, 4, 2));
 		
 		
 	}
